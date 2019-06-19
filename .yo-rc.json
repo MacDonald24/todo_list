@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "za.co.todolist",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "monolith",
+    "baseName": "todolist",
+    "packageName": "za.co.todolist",
+    "packageFolder": "za/co/todolist",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmIyMDg3YTgyMjdhMjY5MWQ0ZjViMjhiYzI2YjZiMTNhZTc5MThjMzk1NzY4ZjdiNDI5YWFmOGI0ZmQ0ZTdiYWQ5ZjliMDRmNjY4OWRmOWNmMTA5MjhmYTUzNzVkMDk1YWZmMzlhMjBjMTBjNjEwMTRlN2Q4MzhiYzkwYzgxY2E=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
